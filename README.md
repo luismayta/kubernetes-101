@@ -1,5 +1,5 @@
- <!-- Space: BASE-TEMPLATE -->
-<!-- Title: readme -->
+ <!-- Space: Kubernetes101 -->
+<!-- Title: Project -->
 
 <!--
 
@@ -15,21 +15,11 @@
 
   -->
 
- <!-- Space: BASE-TEMPLATE -->
+[![Latest Release](https://img.shields.io/github/release/luismayta/kubernetes-101)](https://github.com/luismayta/kubernetes-101/releases) [![Lint](https://img.shields.io/github/workflow/status/luismayta/kubernetes-101/lint-code)](https://github.com/luismayta/kubernetes-101/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
- <!-- Title: readme -->
+# kubernetes-101
 
-[![Latest Release](https://img.shields.io/github/release/luismayta/base-learn-template)](https://github.com/luismayta/base-learn-template/releases) [![Lint](https://img.shields.io/github/workflow/status/luismayta/base-learn-template/lint-code)](https://github.com/luismayta/base-learn-template/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
-
-# base-learn-template
-
-base-learn-template for project
-
-### Replace name project to New Project
-
-```bash
-  agr 'base-learn-template' 'new-project'
-```
+kubernetes-101 for project
 
 ## Requirements
 
@@ -43,13 +33,13 @@ This is a list of plugins that need to be installed previously to enjoy all the 
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/luismayta/base-learn-template/issues).
+File a GitHub [issue](https://github.com/luismayta/kubernetes-101/issues).
 
 ## Contributing
 
 ### Bug Reports & Feature Requests
 
-Please use the [issue tracker](https://github.com/luismayta/base-learn-template/issues) to report any bugs or file feature requests.
+Please use the [issue tracker](https://github.com/luismayta/kubernetes-101/issues) to report any bugs or file feature requests.
 
 ### Development
 
@@ -91,6 +81,6 @@ All other trademarks referenced herein are the property of their respective owne
 
 The code and styles are licensed under the LGPL-3.0 license [See project license.](LICENSE).
 
-## Don't forget to 🌟 Star 🌟 the repo if you like base-learn-template
+## Don't forget to 🌟 Star 🌟 the repo if you like kubernetes-101
 
-[Your feedback is appreciated](https://github.com/luismayta/base-learn-template/issues)
+[Your feedback is appreciated](https://github.com/luismayta/kubernetes-101/issues)
