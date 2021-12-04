@@ -1,4 +1,4 @@
-origin: github.com/luismayta/base-learn-template
+origin: github.com/luismayta/kubernetes-101
 issue_tracker: GITHUB
 auth:
   type: none
