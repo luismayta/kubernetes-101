@@ -1,11 +1,11 @@
 {
-  "baseUrl": "https://github.com/luismayta/base-learn-template",
+  "baseUrl": "https://github.com/luismayta/kubernetes-101",
   "ignorePatterns": [
     {
       "pattern": "^https://hadenlabs.com"
     },
     {
-      "pattern": "^https://github.com/luismayta/base-learn-template/compare"
+      "pattern": "^https://github.com/luismayta/kubernetes-101/compare"
     }
   ],
   "replacementPatterns": [
