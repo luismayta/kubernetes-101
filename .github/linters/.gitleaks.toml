@@ -255,7 +255,6 @@ title = "gitleaks config"
     '''^\.gitignore$''',
     '''^\.gitleaks.toml$''',
     '''^\.gitignore$''',
-    '''^\.gitignore$''',
     '''^yarn.lock$''',
     '''^sonar-project.properties$''',
   ]
