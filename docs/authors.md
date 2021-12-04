@@ -1,4 +1,5 @@
-<!-- Space: BASE-TEMPLATE -->
+<!-- Space: Kubernetes101 -->
+<!-- Parent: Project -->
 <!-- Title: Authors -->
 
 # Authors
