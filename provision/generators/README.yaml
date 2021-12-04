@@ -5,14 +5,14 @@
 #
 
 # Name of this project
-name: base-learn-template
+name: kubernetes-101
 
 email:
   support: support@hadenlabs.com
 
 confluence:
-  space: BASE-TEMPLATE
-  title: readme
+  space: Kubernetes101
+  title: Project
 
 # Logo for this project
 #logo: docs/logo.png
@@ -21,16 +21,16 @@ confluence:
 license: 'LGPL-3.0'
 
 # Canonical GitHub repo
-github_repo: luismayta/base-learn-template
+github_repo: luismayta/kubernetes-101
 
 # Badges to display
 badges:
   - name: Latest Release
-    image: https://img.shields.io/github/release/luismayta/base-learn-template
-    url: https://github.com/luismayta/base-learn-template/releases
+    image: https://img.shields.io/github/release/luismayta/kubernetes-101
+    url: https://github.com/luismayta/kubernetes-101/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/luismayta/base-learn-template/lint-code
-    url: https://github.com/luismayta/base-learn-template/actions?workflow=lint-code
+    image: https://img.shields.io/github/workflow/status/luismayta/kubernetes-101/lint-code
+    url: https://github.com/luismayta/kubernetes-101/actions?workflow=lint-code
   - name: pre-commit
     image: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
     url: https://github.com/pre-commit/pre-commit
@@ -52,10 +52,4 @@ requirements: |-
 # Short description of this project
 description: |-
 
-  base-learn-template for project
-
-  ### Replace name project to New Project
-
-  ```bash
-    agr 'base-learn-template' 'new-project'
-  ```
+  kubernetes-101 for project
