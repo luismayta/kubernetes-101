@@ -1,11 +1,11 @@
 <!-- Space: Kubernetes101 -->
 <!-- Parent: Project -->
-<!-- Title: Commands -->
+<!-- Title: Components -->
 
 <!-- Label: Kubernetes101 -->
 <!-- Label: Project -->
-<!-- Label: Commands -->
+<!-- Label: Components -->
 <!-- Include: docs/disclaimer.md -->
 <!-- Include: ac:toc -->
 
-## Commands
+# components

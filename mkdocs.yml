@@ -1,4 +1,4 @@
-site_name: base-learn-template Documentation
+site_name: kubernetes-101 Documentation
 theme: 'material'
 markdown_extensions:
   - toc:
@@ -15,8 +15,8 @@ extra:
   font:
     text: 'Source Sans Pro'
 
-repo_name: 'luismayta/base-learn-template'
-repo_url: 'https://github.com/luismayta/base-learn-template'
+repo_name: 'luismayta/kubernetes-101'
+repo_url: 'https://github.com/luismayta/kubernetes-101'
 copyright: 'Copyright © 2021 <a href="https://luismayta.dev">luismayta</a>'
 
 google_analytics:

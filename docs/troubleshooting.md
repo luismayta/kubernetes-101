@@ -1,5 +1,12 @@
-<!-- Space: BASE-TEMPLATE -->
+<!-- Space: Kubernetes101 -->
+<!-- Parent: Project -->
 <!-- Title: Troubleshooting -->
+
+<!-- Label: Kubernetes101 -->
+<!-- Label: Project -->
+<!-- Label: Troubleshooting -->
+<!-- Include: docs/disclaimer.md -->
+<!-- Include: ac:toc -->
 
 # Troubleshooting
 
