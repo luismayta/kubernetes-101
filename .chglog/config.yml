@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: https://github.com/luismayta/base-learn-template
+  repository_url: https://github.com/luismayta/kubernetes-101
 options:
   commits:
     filters:
